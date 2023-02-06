@@ -27,12 +27,12 @@ I'm a Web Developer from India 🇮🇳
 #### Total contribution
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-syan&theme=dark" alt="mystreak"/>
-
+<!-- 
 #### Github trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=karan-syan&theme=juicyfresh&no-bg=true" />
 
 ### Profile visits
 
-<img src="https://komarev.com/ghpvc/?username=karan-syan&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=karan-syan&color=brightgreen" alt="watching_count" /> -->
 
