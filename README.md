@@ -1,7 +1,5 @@
 ### Hello, I'm Karanveer Singh!
 
-<br />
-
 I'm a FrontEnd developer from India 🇮🇳
 
 **About me**
