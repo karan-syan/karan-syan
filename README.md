@@ -4,7 +4,7 @@ I'm a Software developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd developer at [Iotasol](http://iotasol.com/)
+- 💼 Software developer at [Iotasol](http://iotasol.com/)
 
 - ❤️ I love writing TypeScript, and building React Apps
 
