@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Karanveer Singh!</h1>
+### Hello, I'm Karanveer Singh!
 
 <br />
 
