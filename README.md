@@ -1,10 +1,10 @@
 ### Hello, I'm Karanveer Singh!
 
-I'm a Web developer from India 🇮🇳
+I'm a Web Developer from India 🇮🇳
 
 **About me**
 
-- 💼 Web developer at [Iotasol](http://iotasol.com/)
+- 💼 Web Developer at [Iotasol](http://iotasol.com/)
 
 - ❤️ I love writing TypeScript, and building React Apps
 
