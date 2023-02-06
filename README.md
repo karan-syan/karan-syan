@@ -28,7 +28,7 @@ I'm a FrontEnd developer from India 🇮🇳
 
 #### Total contribution
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-syan&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-syan&theme=dark" alt="mystreak"/>
 
 #### Github trophy
 
