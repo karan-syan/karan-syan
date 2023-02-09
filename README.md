@@ -31,8 +31,9 @@ I'm a Web Developer from India 🇮🇳
 #### Github trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=karan-syan&theme=juicyfresh&no-bg=true" />
-
+ -->
+ 
 ### Profile visits
 
-<img src="https://komarev.com/ghpvc/?username=karan-syan&color=brightgreen" alt="watching_count" /> -->
+<img src="https://komarev.com/ghpvc/?username=karan-syan&color=brightgreen" alt="watching_count" />
 
