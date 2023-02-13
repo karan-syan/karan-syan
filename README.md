@@ -26,7 +26,6 @@ I'm a Web Developer from India 🇮🇳
 
 #### Total contribution
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-syan&theme=dark" alt="mystreak"/>
 <!-- 
 #### Github trophy
 
