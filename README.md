@@ -35,5 +35,5 @@ I'm a Web Developer from India 🇮🇳
  
 ### Profile visits
 
-<img src="https://komarev.com/ghpvc/?username=karan-syan&color=brightgreen" alt="watching_count" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-syan&color=brightgreen" alt="watching_count" />
 
