@@ -32,8 +32,4 @@ I'm a Web Developer from India 🇮🇳
 
 <img src="https://github-profile-trophy.vercel.app/?username=karan-syan&theme=juicyfresh&no-bg=true" />
  -->
- 
-### Profile visits
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-syan&color=brightgreen" alt="watching_count" />
 
