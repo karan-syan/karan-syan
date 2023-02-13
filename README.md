@@ -22,7 +22,7 @@ I'm a Web Developer from India 🇮🇳
 
 ### My github stats
 
-![SIMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan-syan&show_icons=true&theme=dark)
+![SIMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan-syan&show_icons=true&theme=radical)
 
 #### Total contribution
 
