@@ -1,6 +1,6 @@
 ### Hello, I'm Karanveer Singh!
 
-I'm a Web Developer from India 🇮🇳
+<img src="https://readme-typing-svg.demolab.com/?lines=I+am+Full+Stack+Web+Developer;"/>
 
 **About me**
 
