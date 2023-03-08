@@ -1,6 +1,6 @@
 ### Hello, I'm Karanveer Singh!
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=F760D3&width=435&lines=I+am+Full+Stack+Web+Developer"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=F760D3&width=435&lines=I+am+Full+Stack+Developer"/>
 
 **About me**
 
