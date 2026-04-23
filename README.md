@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 Web Developer at [Iotasol](http://iotasol.com/)
+- 💼 Full Stack Developer at ApyHub
 
 - ❤️ I love writing TypeScript, and building React Apps
 
